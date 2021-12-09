@@ -14,4 +14,5 @@ dev_dependencies:
   lints: ^1.0.0
 dependencies: 
   characters: ^1.2.0
+  http: ^0.13.4
   path: ^1.8.0
